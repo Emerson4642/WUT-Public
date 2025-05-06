@@ -1,0 +1,11 @@
+# requirements.txt for the wut-public project
+
+# Numerical computing
+numpy
+
+# Scientific and technical computing (integration, stats, interpolate)
+scipy
+
+# Plotting library
+matplotlib
+
