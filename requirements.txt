@@ -1,0 +1,8 @@
+# requirements.txt for WUT Electron-Analog Solver v0.1
+
+numpy==1.26.4
+scipy==1.13.0
+matplotlib==3.8.4
+sympy==1.12
+dill==0.3.8
+# etc.
